@@ -77,18 +77,28 @@ endmodule
 
 
  **Developed by:**
+ 
  Janesha S
  
  **RegisterNumber:**
+ 
  25018817
  
 **Logic symbol & Truthtable**
+
 <img width="706" height="840" alt="image" src="https://github.com/user-attachments/assets/007f2605-de50-4cd3-b0c2-d026fb7bbbc3" />
 
 **RTL realization Output:** 
 
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/8ed45f4c-dd87-4c54-843c-03955fc52c6b" />
+
+
 **RTL**
+
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/22d4bcfe-9219-4542-9351-e2b2c3c332b4" />
+
 
 **Result:**
 
+The truth table of logic gates in Quartus II using Verilog programming is verified successfully.
 
