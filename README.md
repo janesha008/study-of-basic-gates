@@ -95,7 +95,8 @@ endmodule
 
 **RTL**
 
-<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/22d4bcfe-9219-4542-9351-e2b2c3c332b4" />
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/c36243e9-796d-4d53-9fd5-bf7a43ac622d" />
+
 
 
 **Result:**
