@@ -90,13 +90,12 @@ endmodule
 
 **RTL realization Output:** 
 
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/5b8b9837-4fa7-45e5-8310-7a0eb19f0b8c" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/82c5e9d3-f238-4eb5-8bce-ca28166f980f" />
 
 
 **RTL**
 
-<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/c36243e9-796d-4d53-9fd5-bf7a43ac622d" />
-
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/a53ef96f-e8ed-43bf-818e-2138fbb132f9" />
 
 
 **Result:**
